@@ -1,25 +1,25 @@
 {
-  "store_id": 29063,
-  "name": "hfinholdt",
   "domain": "hfinholdt.netlify.app",
-  "short_name": "hfinholdt",
-  "description": "hfinholdt",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#ffc0cb",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "litera",
+    "custom": "ecom-beauty"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffc0cb",
+  "logo": "/img/uploads/logo-site.jpeg",
+  "name": "hfinholdt",
+  "short_name": "HF",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/logo-site.jpeg",
+  "icons_font": "font-awesome",
   "country_code": "BR",
-  "icons_font": "_",
-  "font_family": "_"
+  "secondary_color": "#ffc0cb",
+  "icon": "/img/uploads/logo-site.jpeg",
+  "store_id": 29063,
+  "description": "HF",
+  "large_icon": "/img/uploads/logo-site.jpeg"
 }
