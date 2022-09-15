@@ -4,7 +4,7 @@
   "primary_color": "#ffc0cb",
   "theme": {
     "bootswatch": "litera",
-    "custom": "ecom-beauty"
+    "custom": "clean-gray"
   },
   "bg_color": "#ffc0cb",
   "logo": "/img/uploads/logo-site.jpeg",
