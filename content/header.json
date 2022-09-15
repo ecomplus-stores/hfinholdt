@@ -12,7 +12,8 @@
     "featured": [
       "/body?Body/blusinha",
       "/camisas?Camisas",
-      "/conjuntos?Conjuntos"
+      "/conjuntos?Conjuntos",
+      "/cropped?Cropped"
     ],
     "random": 20,
     "full_width": true
