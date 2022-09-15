@@ -16,7 +16,8 @@
       "/cropped?Cropped",
       "/blusa?Jaqueta",
       "/lencocachecol?Lenço/Cachecol",
-      "/moletons-e-blusas?Moletons e Blusas"
+      "/moletons-e-blusas?Moletons e Blusas",
+      "/ponchos?Ponchos"
     ],
     "random": 20,
     "full_width": true
