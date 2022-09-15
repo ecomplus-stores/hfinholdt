@@ -19,7 +19,8 @@
       "/moletons-e-blusas?Moletons e Blusas",
       "/ponchos?Ponchos",
       "/saias?Saias",
-      "/shorts?Shorts/Calça"
+      "/shorts?Shorts/Calça",
+      "/t-shirt?T-Shirt"
     ],
     "random": 20,
     "full_width": true
