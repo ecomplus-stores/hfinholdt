@@ -1,5 +1,6 @@
 {
-  "domain": "hfinholdt.netlify.app",
+  "domain": "hfinholdt.com",
+  "repository": "ecomplus-stores/hfinholdt",
   "currency_symbol": "R$",
   "primary_color": "#ffc0cb",
   "theme": {
