@@ -14,6 +14,12 @@
           "start": "",
           "end": "",
           "mobile_img": "/img/uploads/banner-principal.gif"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/hf.gif",
+          "mobile_img": "/img/uploads/hf.gif"
         }
       ]
     },
