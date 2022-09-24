@@ -23,13 +23,13 @@
       "sort": "news"
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "offers"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
