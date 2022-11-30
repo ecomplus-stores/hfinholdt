@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.34e080f3179fa85c48f2dea356553453.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.f489820f6eab3b8a1ba21b104f6fc603.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.9e1d9aca2230f5a00d9de384896c7c27.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.b8d6569c7d232e89d8305a1fb4b7a000.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.6a3e58a582ad94dab9d18067d7702b2f.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "H F",
+  "short_name": "HF",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "HF ",
+  "background_color": "#ffc0cb",
+  "theme_color": "#ffc0cb"
+}
