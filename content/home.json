@@ -25,6 +25,14 @@
       "collection_id": "61db5d140c7c727225fc9c98:categories:Vestidos e Macacões:/vestidos"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 22,
+      "page": 1,
+      "collection_id": "626d8a3f3da6d37bc21735f6:categories:Camisas:/camisas",
+      "headless": false
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
