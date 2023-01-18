@@ -35,11 +35,6 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/hannas3240x900.png",
-      "mobile_img": "/img/uploads/capahannas.png"
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
