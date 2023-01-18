@@ -5,6 +5,19 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/hannas3240x900.png",
+          "mobile_img": "/img/uploads/hannas3240x900.png"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
       "full_width": true,
       "slides": [
         {
@@ -17,7 +30,7 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/capahannas.png",
+      "img": "/img/uploads/hannas3240x900.png",
       "mobile_img": "/img/uploads/capahannas.png"
     },
     {
