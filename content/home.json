@@ -17,7 +17,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/capahannas.png"
+      "img": "/img/uploads/capahannas.png",
+      "mobile_img": "/img/uploads/capahannas.png"
     },
     {
       "type": "collection-shelf",
