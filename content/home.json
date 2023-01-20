@@ -16,6 +16,11 @@
       ]
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -27,11 +32,6 @@
           "mobile_img": "/img/uploads/hannas3240x900.png"
         }
       ]
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "views"
     },
     {
       "type": "dynamic-showcase",
