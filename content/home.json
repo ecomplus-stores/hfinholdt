@@ -5,25 +5,6 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/hannas3240x900.png",
-          "mobile_img": "/img/uploads/hannas3240x900.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/hanna-finholdt.png",
-          "mobile_img": "/img/uploads/hanna-finholdt.png"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
       "full_width": true,
       "slides": [
         {
@@ -31,6 +12,19 @@
           "end": "",
           "img": "/img/uploads/hf-1-.png",
           "mobile_img": "/img/uploads/hf-1-.png"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/hannas3240x900.png",
+          "mobile_img": "/img/uploads/hannas3240x900.png"
         }
       ]
     },
