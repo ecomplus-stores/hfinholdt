@@ -7,6 +7,10 @@
       "img": "/img/uploads/hannas3240x900.png"
     },
     {
+      "type": "page-title",
+      "title": "NOVIDADES"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
@@ -38,8 +42,18 @@
       "enabled": true
     },
     {
-      "type": "page-title",
-      "title": "NOVIDADES"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-principal.gif"
+        },
+        {
+          "img": "/img/uploads/hanna-finholdt.png"
+        },
+        {
+          "img": "/img/uploads/hf-1-.png"
+        }
+      ]
     }
   ]
 }
