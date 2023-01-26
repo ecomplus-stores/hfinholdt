@@ -3,30 +3,8 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/hf-1-.png",
-          "mobile_img": "/img/uploads/hf-1-.png"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/hannas3240x900.png",
-          "mobile_img": "/img/uploads/hannas3240x900.png"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/hannas3240x900.png"
     },
     {
       "type": "dynamic-showcase",
