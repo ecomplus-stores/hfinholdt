@@ -49,7 +49,12 @@
         },
         {
           "img": "/img/uploads/hanna-finholdt.png"
-        },
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
         {
           "img": "/img/uploads/hf-1-.png"
         },
