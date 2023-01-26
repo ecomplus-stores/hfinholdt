@@ -7,6 +7,12 @@
       "img": "/img/uploads/hannas3240x900.png"
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": "name"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
