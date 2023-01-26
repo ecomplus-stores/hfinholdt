@@ -62,6 +62,10 @@
           "img": "/img/uploads/hannas3240x900.png"
         }
       ]
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
     }
   ]
 }
