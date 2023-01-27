@@ -1,6 +1,5 @@
 {
   "domain": "hfinholdt.com",
-  "repository": "ecomplus-stores/hfinholdt",
   "currency_symbol": "R$",
   "primary_color": "#ffc0cb",
   "theme": {
@@ -8,19 +7,20 @@
     "custom": "_"
   },
   "bg_color": "#ffc0cb",
-  "logo": "/img/uploads/logo-site.jpeg",
+  "repository": "ecomplus-stores/hfinholdt",
+  "logo": "/img/uploads/design-sem-nome.png",
   "name": "H F",
   "short_name": "HF",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/logo-site.jpeg",
+  "favicon": "/img/uploads/design-sem-nome.png",
   "icons_font": "font-awesome",
   "country_code": "BR",
   "secondary_color": "#ffc0cb",
-  "icon": "/img/uploads/logo-site.jpeg",
+  "icon": "/img/uploads/design-sem-nome.png",
   "store_id": 29063,
   "description": "HF ",
-  "large_icon": "/img/uploads/logo-site.jpeg"
+  "large_icon": "/img/uploads/design-sem-nome.png"
 }
